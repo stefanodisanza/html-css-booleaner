@@ -11,7 +11,38 @@ header{
     margin-left: 25px;
 }
 
+h1{
+    font-size: 50px;
+    margin: 0%;
+}
+
+span{
+    color: #868686;
+}
+
+.autore{
+    color: #4EBAE9;
+}
+
+.data{
+    font-size: smaller;
+}
+
 .immagini-tim{
     margin-top: 25px;
 }
 
+th{
+    text-align: left;
+}
+
+.container{
+    position: relative;
+    color: white;
+}
+
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
