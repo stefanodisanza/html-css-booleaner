@@ -16,17 +16,24 @@ h1{
     margin: 0%;
 }
 
-span{
+.grigio{
     color: #868686;
 }
 
-.autore{
+#autore{
     color: #4EBAE9;
 }
 
-.data{
+#data{
+    font-size: smaller;
+    color: #868686;
+
+}
+
+.didascalia{
     font-size: smaller;
 }
+
 
 .immagini-tim{
     margin-top: 25px;
@@ -45,4 +52,18 @@ th{
     position: absolute;
     top: 8px;
     left: 16px;
+}
+
+table{
+    
+   
+}
+
+thead{
+    background-color: #1FAAE5;
+    color: white;
+}
+
+.dispari{
+    background-color: #B1E4F2;
 }
